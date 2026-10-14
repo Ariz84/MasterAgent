@@ -1,0 +1,6 @@
+{
+  "name": "Master Agent",
+  "description": "Mobile-first personal AI assistant with specialist agents, Pakistani Roman Urdu conversation, Forex trading analysis, and Termux companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
